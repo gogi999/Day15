@@ -65,7 +65,7 @@ li.nav-links a:hover {
 
 #form-search {
   width: 540px;
-  margin: auto 20px;
+  margin: auto 0;
   font-size: 15px;
   flex: 0 1 612px;
   height: 36px;
